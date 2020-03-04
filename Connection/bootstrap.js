@@ -1,0 +1,6 @@
+require('../Model/userModel')
+require('../Model/moviesModel')
+require('../Model/cityModel')
+require('../Model/cinemaModel')
+require('../Model/showModel')
+require('../Model/ticketBookingModel')

@@ -1,0 +1,6 @@
+exports.UserModel = 'users'
+exports.MoviesModel = 'movies'
+exports.CityModel = 'city'
+exports.CinemaModel = 'cinema'
+exports.ShowModel = 'shows'
+exports.TicketBookingModel = 'ticket_booking'
